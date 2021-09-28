@@ -1,6 +1,1 @@
 second file, first line
-
-adding more lines
-but this time
-more files will be reverted
-but some will stay the same
